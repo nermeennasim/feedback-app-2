@@ -1,0 +1,34 @@
+{
+  "feedback": [
+    {
+      "id": 1,
+      "rating": 10,
+      "text": "This is the first Feedback Item"
+    },
+    {
+      "id": 2,
+      "rating": 8,
+      "text": "This is the second Feedback Item"
+    },
+    {
+      "id": 3,
+      "rating": 6,
+      "text": "This is the third Feedback Item"
+    },
+    {
+      "id": 4,
+      "rating": 4,
+      "text": "This is the fourth Feedback Item"
+    },
+    {
+      "id": 5,
+      "rating": 2,
+      "text": "This is the fifth Feedback Item"
+    },
+    {
+      "rating": "5",
+      "text": "New Feedbacvk Item",
+      "id": 7
+    }
+  ]
+}
